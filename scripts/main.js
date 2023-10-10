@@ -7,7 +7,7 @@ function elt(name, attrs, ...children) {
     dom.appendChild(child);
   }
   return dom;
-}
+}     
 
 
 class Matrix {
