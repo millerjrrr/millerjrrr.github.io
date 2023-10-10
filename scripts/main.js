@@ -9,6 +9,7 @@ function elt(name, attrs, ...children) {
   return dom;
 }     
 
+//visible change comment
 
 class Matrix {
   constructor(width, height, element = (x, y) => undefined) {
